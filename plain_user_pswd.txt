@@ -1,0 +1,16 @@
+username,password
+vweak1,veryweak
+vweak2,Vweak
+vweak3,V3k
+weak4,ajnsuflemdosixuneksnm
+weak5,JuStWeak
+weak6,JW3ak
+good7,goodmdieoinfdaslkjnebciouejaifueanaskdjenaksudeodm
+good8,goODsuDeoDm
+good9,V3k!
+strong10,ancueintlaiusdfnekcbdjsdfoiewuweknsdfasuifkewnmsjasdfuiasdnemnsjksduidskjemn
+strong11,ancUeIntlaiusdfnekcb
+strong12,a!UeIna1
+veryStrong13,cbhaweiulkncbhsdiweiudsakncmnxckjewiewjksdmcnmsdkjeuisjsdljkasfndiuowbfhczxmbcnalskuidoqwhebkjbcuie
+veryStrong14,SupErStrongPassWoRDLetsGo
+veryStrong15,S!pErStr0ngP3.WoRD
